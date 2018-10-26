@@ -1,1 +1,1 @@
-# credit-n-debt
+# Credit-and-Loans
